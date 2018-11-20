@@ -12,3 +12,7 @@ function main() {
     console.log(s + ss); 
 
 }
+
+// Data Types
+// Primitves: Boolean, Null, Undefine, Number, String, Symbol
+// Objects: Indexed Collections (Arrays), Keyed collections(Maps), Structured data(JSON)

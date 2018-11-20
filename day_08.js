@@ -26,3 +26,15 @@ function processData(input) {
         );
     }
 } 
+
+// Map (JavaScript) or Dictionary (Python)
+// An object that holds key-value pairs and remembers the original insertion order of the keys.
+// Any value (both objects and primitive values) may be used as either a key or a value
+
+// Syntax
+// new Map([iterable])
+
+// How Maps are different than Objects
+// Objects are Strings and Symbols, Maps can be any value
+// Keys are not ordered in Objects, but are ordered in Maps
+// Maps are iterable, but iterating over an object requires obtaining its keys in some fashion and iterating over them. 

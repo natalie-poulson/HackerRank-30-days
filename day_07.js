@@ -5,3 +5,7 @@ function main() {
 
     console.log(arr.reverse().join(' '))
 }
+
+// Array
+// High-level, list-like objects
+// Must use integers as element indexes

@@ -5,3 +5,13 @@ function main() {
         console.log(`${n} x ${i} = ${n * i}`)
     }
 }
+
+// Loops
+// Repeats an action some number of times
+
+//Types
+//For 
+// Do..While 
+// While 
+// For..In = iterates over property names. Avoid using with Arrays
+// For..Of = iterates over property values

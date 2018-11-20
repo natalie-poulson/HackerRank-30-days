@@ -21,3 +21,14 @@ function Person(initialAge){
         age += 1
     };
 }
+
+
+// Class
+// A blueprint used to create objects
+
+// Instance
+// Describes a relationship
+// An object created by a constructor is an instance of that constructor
+
+// Object
+// An object is an instance of a class
